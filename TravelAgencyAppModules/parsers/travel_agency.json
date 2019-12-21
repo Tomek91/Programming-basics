@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "MASTER",
+    "country": "WARSZAWA"
+  },
+  {
+    "id": 2,
+    "name": "COOL",
+    "country": "BIALYSTOK"
+  },
+  {
+    "id": 3,
+    "name": "BEST",
+    "country": "POZNAN"
+  },
+  {
+    "id": 4,
+    "name": "EVENT",
+    "country": "GDYNIA"
+  },
+  {
+    "id": 5,
+    "name": "LOG",
+    "country": "GDANSK"
+  },
+  {
+    "id": 6,
+    "name": "NICE",
+    "country": "OPOLE"
+  },
+  {
+    "id": 7,
+    "name": "TERMY",
+    "country": "KRAKOW"
+  }
+]

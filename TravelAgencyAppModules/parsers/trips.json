@@ -1,0 +1,226 @@
+[
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 111.0,
+    "people_number": 50,
+    "travel_agency_id": 1
+  },
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 99.0,
+    "people_number": 111,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 88.0,
+    "people_number": 222,
+    "travel_agency_id": 3
+  },
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 77.0,
+    "people_number": 333,
+    "travel_agency_id": 4
+  },
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 66.0,
+    "people_number": 4,
+    "travel_agency_id": 5
+  },
+  {
+    "id": null,
+    "destination": "WLOCHY",
+    "price": 55.0,
+    "people_number": 14,
+    "travel_agency_id": 6
+  },
+  {
+    "id": null,
+    "destination": "FRANCJA",
+    "price": 44.0,
+    "people_number": 22,
+    "travel_agency_id": 7
+  },
+  {
+    "id": null,
+    "destination": "FRANCJA",
+    "price": 33.0,
+    "people_number": 77,
+    "travel_agency_id": 1
+  },
+  {
+    "id": null,
+    "destination": "FRANCJA",
+    "price": 44.0,
+    "people_number": 65,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "FRANCJA",
+    "price": 45.0,
+    "people_number": 43,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "FRANCJA",
+    "price": 67.0,
+    "people_number": 57,
+    "travel_agency_id": 1
+  },
+  {
+    "id": null,
+    "destination": "NIEMCY",
+    "price": 56.0,
+    "people_number": 50,
+    "travel_agency_id": 3
+  },
+  {
+    "id": null,
+    "destination": "NIEMCY",
+    "price": 67.0,
+    "people_number": 50,
+    "travel_agency_id": 4
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 87.0,
+    "people_number": 454,
+    "travel_agency_id": 5
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 122.0,
+    "people_number": 34,
+    "travel_agency_id": 6
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 88.0,
+    "people_number": 50,
+    "travel_agency_id": 7
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 76.0,
+    "people_number": 333,
+    "travel_agency_id": 1
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 56.0,
+    "people_number": 45,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "LITWA",
+    "price": 56.67,
+    "people_number": 554,
+    "travel_agency_id": 3
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 45.7,
+    "people_number": 676,
+    "travel_agency_id": 4
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 45.6,
+    "people_number": 45,
+    "travel_agency_id": 5
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 454.0,
+    "people_number": 56,
+    "travel_agency_id": 6
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 67.8,
+    "people_number": 565,
+    "travel_agency_id": 7
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 45.8,
+    "people_number": 445,
+    "travel_agency_id": 7
+  },
+  {
+    "id": null,
+    "destination": "USA",
+    "price": 45.98,
+    "people_number": 321,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "BRAZYLIA",
+    "price": 111.0,
+    "people_number": 50,
+    "travel_agency_id": 2
+  },
+  {
+    "id": null,
+    "destination": "BRAZYLIA",
+    "price": 111.0,
+    "people_number": 345,
+    "travel_agency_id": 1
+  },
+  {
+    "id": null,
+    "destination": "BRAZYLIA",
+    "price": 56.8,
+    "people_number": 234,
+    "travel_agency_id": 3
+  },
+  {
+    "id": null,
+    "destination": "BRAZYLIA",
+    "price": 767.8,
+    "people_number": 154,
+    "travel_agency_id": 4
+  },
+  {
+    "id": null,
+    "destination": "INDIE",
+    "price": 88.5,
+    "people_number": 165,
+    "travel_agency_id": 5
+  },
+  {
+    "id": null,
+    "destination": "INDIE",
+    "price": 99.65,
+    "people_number": 123,
+    "travel_agency_id": 3
+  },
+  {
+    "id": null,
+    "destination": "INDIE",
+    "price": 45.99,
+    "people_number": 78,
+    "travel_agency_id": 3
+  }
+]

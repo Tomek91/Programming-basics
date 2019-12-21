@@ -1,0 +1,24 @@
+{
+    "model": "BMW",
+    "price": 120000,
+    "mileage": 13333,
+    "engine": {
+      "eType": "DIESEL",
+      "power": 17.6
+    },
+    "carBody": {
+      "colour": "BLACK",
+      "bType": "SEDAN",
+      "components": [
+        "LUSTERKA_ELEKTRYCZNE",
+        "ALARM",
+        "DRZWI_TYLNE",
+        "AUDIO"
+      ]
+    },
+    "wheel": {
+      "model": "Bridgstone",
+      "size": 16,
+      "wType": "SUMMER"
+    }
+}

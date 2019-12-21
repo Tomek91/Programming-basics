@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Jan",
+    "surname": "Kowal",
+    "age": 20,
+    "cash": 200,
+    "preferences": "124"
+  },
+  {
+    "name": "Ola",
+    "surname": "Kon",
+    "age": 21,
+    "cash": 111,
+    "preferences": "987"
+  },
+  {
+    "name": "Pawel",
+    "surname": "Lis",
+    "age": 22,
+    "cash": 222,
+    "preferences": "654"
+  },
+  {
+    "name": "Jurek",
+    "surname": "Pies",
+    "age": 54,
+    "cash": 766,
+    "preferences": "284"
+  },
+  {
+    "name": "Jan",
+    "surname": "Wedka",
+    "age": 76,
+    "cash": 554,
+    "preferences": "345"
+  },
+  {
+    "name": "Paula",
+    "surname": "Kowal",
+    "age": 87,
+    "cash": 3333,
+    "preferences": "981"
+  },
+  {
+    "name": "Ewa",
+    "surname": "Ryba",
+    "age": 4,
+    "cash": 43,
+    "preferences": "728"
+  },
+  {
+    "name": "Ala",
+    "surname": "Rak",
+    "age": 34,
+    "cash": 3535,
+    "preferences": "468"
+  },
+  {
+    "name": "Marek",
+    "surname": "Wol",
+    "age": 28,
+    "cash": 564,
+    "preferences": "913"
+  },
+  {
+    "name": "Jarek",
+    "surname": "Waran",
+    "age": 89,
+    "cash": 987,
+    "preferences": "273"
+  }
+]

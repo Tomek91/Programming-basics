@@ -1,0 +1,47 @@
+[
+  {
+    "title": "TITANIC",
+    "typeOfMovie": "thriller",
+    "director": "Steven Spielberg"
+  },
+  {
+    "title": "M JAK MILOSC",
+    "typeOfMovie": "komedia",
+    "director": "Jan Kowalski"
+  },
+  {
+    "title": "NA WSPOLNEJ",
+    "typeOfMovie": "wojenny",
+    "director": "Szymek Kaluza"
+  },
+  {
+    "title": "KLAN",
+    "typeOfMovie": "sensacyjny",
+    "director": "Ron Denis"
+  },
+  {
+    "title": "PILA",
+    "typeOfMovie": "horror",
+    "director": "Ryszard Drugi"
+  },
+  {
+    "title": "Odwroceni",
+    "typeOfMovie": "nieznany",
+    "director": "Krol lew"
+  },
+  {
+    "title": "Pszczolka maja",
+    "typeOfMovie": "thriller",
+    "director": "wAclaw Slowikowski"
+  },
+  {
+    "title": "Czterer pancerni",
+    "typeOfMovie": "thriller",
+    "director": "ADAM Malysz"
+  },
+  {
+    "title": "ZELAZKO",
+    "typeOfMovie": "nieznany",
+    "director": "Waldek Kiepski"
+  }
+]

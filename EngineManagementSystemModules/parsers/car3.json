@@ -1,0 +1,24 @@
+{
+  "model": "AUDI",
+  "price": 7777777,
+  "mileage": 33,
+  "engine": {
+    "eType": "BENZYNA",
+    "power": 8.6
+  },
+  "carBody": {
+    "colour": "GREEN",
+    "bType": "KOMBI",
+    "components": [
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA",
+      "AUDIO",
+      "SKORA"
+    ]
+  },
+  "wheel": {
+    "model": "Pirelli",
+    "size": 12,
+    "wType": "SUMMER"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "model": "PORSCHE",
+  "price": 120000000,
+  "mileage": 15,
+  "engine": {
+    "eType": "DIESEL",
+    "power": 33.6
+  },
+  "carBody": {
+    "colour": "RED",
+    "bType": "KOMBI",
+    "components": [
+      "LUSTERKA_ELEKTRYCZNE",
+      "SZYBY_ELEKTRYCZNE",
+      "DRZWI_TYLNE",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA",
+      "AUDIO",
+      "SKORA"
+    ]
+  },
+  "wheel": {
+    "model": "Jan",
+    "size": 22,
+    "wType": "WINTER"
+  }
+}

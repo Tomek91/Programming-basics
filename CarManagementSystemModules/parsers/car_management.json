@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "model": "BMW",
+      "price": 120,
+      "color": "BLACK",
+      "mileage": 1500,
+      "components": [
+        "ABS",
+        "ALLOY WHEELS"
+      ]
+    },
+    {
+      "model": "MAZDA",
+      "price": 160,
+      "color": "WHITE",
+      "mileage": 2500,
+      "components": [
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+    {
+      "model": "AUDI",
+      "price": 165,
+      "color": "RED",
+      "mileage": 2533,
+      "components": [
+        "AIR CONDITIONING"
+      ]
+    },
+    {
+      "model": "POLONEZ",
+      "price": 33,
+      "color": "RED",
+      "mileage": 12345,
+      "components": [
+        "RADIO"
+      ]
+    },
+    {
+      "model": "MERCEDES",
+      "price": 9999,
+      "color": "SILVER",
+      "mileage": 88,
+      "components": [
+        "RADIO",
+        "ABS",
+        "AIR CONDITIONING",
+        "GPS"
+      ]
+    },
+    {
+      "model": "FIAT",
+      "price": 456,
+      "color": "BLACK",
+      "mileage": 987,
+      "components": [
+        "ABS",
+        "AIR CONDITIONING"
+      ]
+    }
+  ]
+}

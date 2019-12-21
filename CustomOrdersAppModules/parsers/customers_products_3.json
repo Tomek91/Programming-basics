@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Rafal",
+    "surname": "Sylwester",
+    "age": 71,
+    "cash": 100,
+    "products": [
+      {
+        "name": "Laptop",
+        "category": "Elektronika",
+        "price": 1001
+      },
+      {
+        "name": "PanTadeusz",
+        "category": "Ksiazka",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "name": "Romek",
+    "surname": "Pomidor",
+    "age": 4,
+    "cash": 800,
+    "products": [
+      {
+        "name": "Marchew",
+        "category": "Warzywo",
+        "price": 5
+      },
+      {
+        "name": "Flipsy",
+        "category": "Chrupki",
+        "price": 3
+      },
+      {
+        "name": "Flipsy",
+        "category": "Chrupki",
+        "price": 3
+      },
+      {
+        "name": "Ladowarka",
+        "category": "Elektronika",
+        "price": 30
+      },
+      {
+        "name": "MP3",
+        "category": "Elektronika",
+        "price": 30
+      },
+      {
+        "name": "MP3",
+        "category": "Elektronika",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "name": "Ola",
+    "surname": "Owca",
+    "age": 44,
+    "cash": 100,
+    "products": [
+      {
+        "name": "Laptop",
+        "category": "Elektronika",
+        "price" : 1001
+      },
+      {
+        "name": "PanTadeusz",
+        "category": "Ksiazka",
+        "price" : 120
+      }
+    ]
+  },
+  {
+    "name": "Wladek",
+    "surname": "Zuk",
+    "age": 88,
+    "cash": 567,
+    "products": [
+      {
+        "name": "Walizka",
+        "category": "Sprzet",
+        "price" : 333
+      }
+    ]
+  }
+]

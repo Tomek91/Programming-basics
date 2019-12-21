@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "ARTYKULY_SPOZYWCZE"
+  },
+  {
+    "id": 2,
+    "name": "ELEKTRONIKA"
+  },
+  {
+    "id": 3,
+    "name": "OWOCE"
+  },
+  {
+    "id": 4,
+    "name": "WARZYWA"
+  },
+  {
+    "id": 5,
+    "name": "MIESO"
+  },
+  {
+    "id": 6,
+    "name": "CHEMIA"
+  },
+  {
+    "id": 7,
+    "name": "OGRODEK"
+  },
+  {
+    "id": 8,
+    "name": "SLODYCZE"
+  },
+  {
+    "id": 9,
+    "name": "PICIE"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Marcin",
+    "surname": "Krowa",
+    "age": 71,
+    "cash": 733,
+    "products": [
+      {
+        "name": "Dlugopis",
+        "category": "Biurowe",
+        "price": 7
+      },
+      {
+        "name": "Zeszyt",
+        "category": "Biurowe",
+        "price": 2
+      },
+      {
+        "name": "Okno",
+        "category": "Dom",
+        "price": 878
+      }
+    ]
+  },
+  {
+    "name": "Paula",
+    "surname": "Kon",
+    "age": 49,
+    "cash": 233,
+    "products": [
+      {
+        "name": "Telewizor",
+        "category": "Sprzet",
+        "price": 1111
+      },
+      {
+        "name": "Zeszyt",
+        "category": "Biurowe",
+        "price": 2
+      }
+    ]
+  },
+  {
+    "name": "Jan",
+    "surname": "Kos",
+    "age": 18,
+    "cash": 2000,
+    "products": [
+      {
+        "name": "Zelazko",
+        "category": "Sprzet",
+        "price": 150
+      }
+    ]
+  }
+]

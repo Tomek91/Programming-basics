@@ -1,0 +1,54 @@
+[
+  {
+    "bankBalance": 1000.0,
+    "pin": "a",
+    "operations": [
+      "WPLATA_100",
+      "WPLATA_900"
+    ]
+  },
+  {
+    "bankBalance": 55.0,
+    "pin": "b",
+    "operations": [
+      "WPLATA_800",
+      "ANULOWANA",
+      "WYPLATA_745"
+    ]
+  },
+  {
+    "bankBalance": 456.0,
+    "pin": "c",
+    "operations": [
+      "WPLATA_456",
+      "WYPLATA_456",
+      "WPLATA_456"
+    ]
+  },
+  {
+    "bankBalance": 1233.0,
+    "pin": "d",
+    "operations": [
+      "WPLATA_1000",
+      "WPLATA_233"
+    ]
+  },
+  {
+    "bankBalance": 23.0,
+    "pin": "e",
+    "operations": [
+      "BLAD_LOGOWANIA",
+      "WPLATA_23",
+      "ANULOWANA"
+    ]
+  },
+  {
+    "bankBalance": 354.0,
+    "pin": "f",
+    "operations": [
+      "WPLATA_400",
+      "WYPLATA_44",
+      "BLAD_LOGOWANIA"
+    ]
+  }
+]

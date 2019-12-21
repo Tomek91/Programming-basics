@@ -1,0 +1,24 @@
+{
+  "model": "SKODA",
+  "price": 20000,
+  "mileage": 9876,
+  "engine": {
+    "eType": "BENZYNA",
+    "power": 8.6
+  },
+  "carBody": {
+    "colour": "SILVER",
+    "bType": "SEDAN",
+    "components": [
+      "LUSTERKA_ELEKTRYCZNE",
+      "DRZWI_TYLNE",
+      "AUDIO"
+    ]
+  },
+  "wheel": {
+    "model": "Bridgstone",
+    "size": 20,
+    "wType": "WINTER"
+  }
+}
+

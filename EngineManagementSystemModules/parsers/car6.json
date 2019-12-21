@@ -1,0 +1,28 @@
+{
+  "model": "FERRARI",
+  "price": 99999999,
+  "mileage": 567,
+  "engine": {
+    "eType": "DIESEL",
+    "power": 26.6
+  },
+  "carBody": {
+    "colour": "WHITE",
+    "bType": "KOMBI",
+    "components": [
+      "LUSTERKA_ELEKTRYCZNE",
+      "SZYBY_ELEKTRYCZNE",
+      "DRZWI_TYLNE",
+      "ALARM",
+      "SWIATLA_PRZECIWMGIELNE",
+      "KLIMATYZACJA",
+      "AUDIO",
+      "SKORA"
+    ]
+  },
+  "wheel": {
+    "model": "Bridgstone",
+    "size": 20,
+    "wType": "WINTER"
+  }
+}

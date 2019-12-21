@@ -1,0 +1,23 @@
+{
+  "model": "VOLVO",
+  "price": 21212,
+  "mileage": 674555,
+  "engine": {
+    "eType": "BENZYNA",
+    "power": 7.6
+  },
+  "carBody": {
+    "colour": "RED",
+    "bType": "KOMBI",
+    "components": [
+      "KLIMATYZACJA",
+      "AUDIO",
+      "SKORA"
+    ]
+  },
+  "wheel": {
+    "model": "Pirelli",
+    "size": 17,
+    "wType": "WINTER"
+  }
+}

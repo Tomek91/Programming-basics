@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Jan",
+    "surname": "Kos",
+    "age": 10,
+    "cash": 2000,
+    "products": [
+      {
+        "name": "Komputer",
+        "category": "Elektronika",
+        "price": 2400
+      }
+    ]
+  },
+  {
+    "name": "Ola",
+    "surname": "Owca",
+    "age": 44,
+    "cash": 100,
+    "products": [
+      {
+        "name": "Laptop",
+        "category": "Elektronika",
+        "price": 1001
+      },
+      {
+        "name": "PanTadeusz",
+        "category": "Ksiazka",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "name": "Basia",
+    "surname": "Kot",
+    "age": 66,
+    "cash": 566,
+    "products": [
+      {
+        "name": "Jablko",
+        "category": "Owoc",
+        "price": 10
+      },
+      {
+        "name": "Telefon",
+        "category": "Elektronika",
+        "price": 444
+      },
+      {
+        "name": "Stol",
+        "category": "Meble",
+        "price": 999
+      }
+    ]
+  },
+  {
+    "name": "Kasia",
+    "surname": "Pies",
+    "age": 23,
+    "cash": 20,
+    "products": [
+      {
+        "name": "Zelazko",
+        "category": "Sprzet",
+        "price": 150
+      },
+      {
+        "name": "Klapki",
+        "category": "Buty",
+        "price": 77
+      }
+    ]
+  },
+  {
+    "name": "Robert",
+    "surname": "Kos",
+    "age": 18,
+    "cash": 2000,
+    "products": [
+      {
+        "name": "Komputer",
+        "category": "Elektronika",
+        "price": 2400
+      }
+    ]
+  },
+  {
+    "name": "Jan",
+    "surname": "Kos",
+    "age": 18,
+    "cash": 2000,
+    "products": [
+      {
+        "name": "Zelazko",
+        "category": "Sprzet",
+        "price": 150
+      },
+      {
+        "name": "Klapki",
+        "category": "Buty",
+        "price": 77
+      }
+    ]
+  }
+]

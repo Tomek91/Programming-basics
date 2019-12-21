@@ -1,0 +1,25 @@
+{
+  "model": "POLONEZ",
+  "price": 120000,
+  "mileage": 1500000,
+  "engine": {
+    "eType": "DIESEL",
+    "power": 4.6
+  },
+  "carBody": {
+    "colour": "GREEN",
+    "bType": "HATCHBACK",
+    "components": [
+      "LUSTERKA_ELEKTRYCZNE",
+      "DRZWI_TYLNE",
+      "SKORA"
+    ]
+  },
+  "wheel": {
+    "model": "Podroba",
+    "size": 11,
+    "wType": "SUMMER"
+  }
+}
+
+

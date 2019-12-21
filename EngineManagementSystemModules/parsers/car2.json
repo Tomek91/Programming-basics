@@ -1,0 +1,22 @@
+{
+  "model": "RENAULT",
+  "price": 1234,
+  "mileage": 18543,
+  "engine": {
+    "eType": "BENZYNA",
+    "power": 8.6
+  },
+  "carBody": {
+    "colour": "BLUE",
+    "bType": "HATCHBACK",
+    "components": [
+      "LUSTERKA_ELEKTRYCZNE",
+      "SZYBY_ELEKTRYCZNE"
+    ]
+  },
+  "wheel": {
+    "model": "Pirelli",
+    "size": 12,
+    "wType": "SUMMER"
+  }
+}

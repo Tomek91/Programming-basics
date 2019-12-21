@@ -1,0 +1,112 @@
+[
+  {
+    "name": "CHELB",
+    "amount": 10,
+    "price": 2,
+    "category": "ARTYKULY_SPOZYWCZE"
+  },
+  {
+    "name": "BULKA",
+    "amount": 20,
+    "price": 1,
+    "category": "ARTYKULY_SPOZYWCZE"
+  },
+  {
+    "name": "LAPTOP",
+    "amount": 31,
+    "price": 1000,
+    "category": "ELEKTRONIKA"
+  },
+  {
+    "name": "KOMORKA",
+    "amount": 20,
+    "price": 600,
+    "category": "ELEKTRONIKA"
+  },
+  {
+    "name": "KIWI",
+    "amount": 333,
+    "price": 4,
+    "category": "OWOCE"
+  },
+  {
+    "name": "BANAN",
+    "amount": 444,
+    "price": 7,
+    "category": "OWOCE"
+  },
+  {
+    "name": "PIETRUSZKA",
+    "amount": 33,
+    "price": 5,
+    "category": "WARZYWA"
+  },
+  {
+    "name": "MARCHEW",
+    "amount": 199,
+    "price": 3,
+    "category": "WARZYWA"
+  },
+  {
+    "name": "SZYNKA",
+    "amount": 24,
+    "price": 19,
+    "category": "MIESO"
+  },
+  {
+    "name": "KIELBASA",
+    "amount": 11,
+    "price": 27,
+    "category": "MIESO"
+  },
+  {
+    "name": "PODLOGI",
+    "amount": 20,
+    "price": 10,
+    "category": "CHEMIA"
+  },
+  {
+    "name": "OKIEN",
+    "amount": 41,
+    "price": 5,
+    "category": "CHEMIA"
+  },
+  {
+    "name": "DRZEWA",
+    "amount": 55,
+    "price": 14,
+    "category": "OGRODEK"
+  },
+  {
+    "name": "TRAWA",
+    "amount": 33,
+    "price": 10,
+    "category": "OGRODEK"
+  },
+  {
+    "name": "BATON",
+    "amount": 77,
+    "price": 3,
+    "category": "SLODYCZE"
+  },
+  {
+    "name": "LIZAK",
+    "amount": 111,
+    "price": 1,
+    "category": "SLODYCZE"
+  },
+  {
+    "name": "MLEKO",
+    "amount": 62,
+    "price": 3,
+    "category": "PICIE"
+  },
+  {
+    "name": "WODA",
+    "amount": 44,
+    "price": 2,
+    "category": "PICIE"
+  }
+]
+
+

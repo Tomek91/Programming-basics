@@ -1,0 +1,54 @@
+{
+  "screenings": [
+    {
+      "movie": {
+        "title": "KLAN",
+        "typeOfMovie": "sensacyjny",
+        "director": "Ron Denis"
+      },
+      "ticketPrice": 12,
+      "filmDuration": 150,
+      "numberOfHall": 5
+    },
+    {
+      "movie": {
+        "title": "NA WSPOLNEJ",
+        "typeOfMovie": "wojenny",
+        "director": "Szymek Kaluza"
+      },
+      "ticketPrice": 33,
+      "filmDuration": 123,
+      "numberOfHall": 4
+    },
+    {
+      "movie": {
+        "title": "TITANIC",
+        "typeOfMovie": "thriller",
+        "director": "Steven Spielberg"
+      },
+      "ticketPrice": 20,
+      "filmDuration": 120,
+      "numberOfHall": 2
+    },
+    {
+      "movie": {
+        "title": "M JAK MILOSC",
+        "typeOfMovie": "komedia",
+        "director": "Jan Kowalski"
+      },
+      "ticketPrice": 99,
+      "filmDuration": 180,
+      "numberOfHall": 3
+    },
+    {
+      "movie": {
+        "title": "PILA",
+        "typeOfMovie": "horror",
+        "director": "Ryszard Drugi"
+      },
+      "ticketPrice": 40,
+      "filmDuration": 150,
+      "numberOfHall": 6
+    }
+  ]
+}

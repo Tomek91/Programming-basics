@@ -1,0 +1,21 @@
+{
+  "model": "FIAT",
+  "price": 12000,
+  "mileage": 15000,
+  "engine": {
+    "eType": "BENZYNA",
+    "power": 2.6
+  },
+  "carBody": {
+    "colour": "SILVER",
+    "bType": "SEDAN",
+    "components": [
+      "AUDIO"
+    ]
+  },
+  "wheel": {
+    "model": "Dębica",
+    "size": 20,
+    "wType": "WINTER"
+  }
+}
