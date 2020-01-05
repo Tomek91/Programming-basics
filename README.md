@@ -37,4 +37,4 @@ Program do wygodnego budowania zapytań sql. Został tu użyty wzorzec builder, 
 Program, w którym jednocześnie mamy pobieranie danych z pliku tekstowego oraz z bazy danych. Symuluje działanie biura podróży. Jednocześnie są operacje statystyczne tj. kraj do którego najczęściej odbywały się wycieczki czy też zestawienie biur podróyży ich wycieczek.
 
 
-<b>Stack technologiczny:<b> Java, Java8, JDBC
+<b>Stack technologiczny:</b> Java, Java8, JDBC
